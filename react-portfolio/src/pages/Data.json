@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Coffee-Club",
+        "url": "https://github.com/mekaleka/coffee-club",
+        "deployment": "https://fathomless-gorge-36996.herokuapp.com/",
+        "description": "This application has a UI that will allow for coffee connoisseurs to be a part of a growing online community. The UX creates a neat and friendly atmosphere for users to be able to view their favorite coffee shops, leave comments and view comments from other Javaphiles. Users will also be able to access profiles based on their inputs(what they are looking for in coffee) as well as post information about their experiences that other users can see. There were a couple small challenges we had getting the front end and back end technologies to connect as well as getting the database to seed properly but we were able to work out those bugs.",
+        "imgsrc": "./imagesAssets/coffee.png"
+    },
+    {
+        "name": "Eat-da-Burger",
+        "url": "https://github.com/lorddominic/Eat-Da-Burger-",
+        "deployment": "https://sheltered-earth-09294.herokuapp.com/",
+        "description": "Eat-Da-Burger is a burger app which lets users input the names of burgers they'd like to eat. Users can submit a burger's name, they can eat the burgers they make by clicking the 'Devour it' button. When the button is clicked, the burger will move to the right side. The devoured burgers' names are still displayed. User can delete them but clicking the 'Delete' button. The app was created using MySQL, Node, Express, Handlebars and a homemade ORM (Object Relation Mapping). Node and MySQL are used to query and route data within the app, and Express Handlebars is used to generate the HTML.",
+        "imgsrc": "https://user-images.githubusercontent.com/46208528/76886906-adb80200-683e-11ea-890c-47d77c304d84.PNG"
+    },
+    {
+        "name": "Online-Offline-Budget-Trackers",
+        "url": "https://github.com/lorddominic/Online-Offline-Budget-Trackers",
+        "deployment": "https://apricot-tart-87520.herokuapp.com/",
+        "description": "The Online/Offline Budget Tracker UI allows for the user to be able to track transactions to and from their account with or without internet connection. This way the user is able to go about their busy schedule and keep tabs on how much money they have in their account. This application is practacle and can be used by anyone who wants to keep track of their money. ",
+        "imgsrc": "https://user-images.githubusercontent.com/46208528/78157753-3913c480-73f5-11ea-93f1-606272d984ed.PNG"
+    },
+    {
+        "name": "React-Employee-Directory ",
+        "url": "https://github.com/mekaleka/coffee-club",
+        "deployment": "https://fathomless-gorge-36996.herokuapp.com/",
+        "description": "This is an app that shows the employee of a company along with their personal infomation. Employees can be sorted by name alphabetically or reverse. You can search part of the name of some employees by typing some letters. This project was bootstrapped with Create React App.",
+        "imgsrc": "https://user-images.githubusercontent.com/46208528/78157753-3913c480-73f5-11ea-93f1-606272d984ed.PNG"
+    },
+    {
+        "name": "Workout-Tracker",
+        "url": "https://github.com/lorddominic/NoSql-Workout-Tracker",
+        "deployment": "https://limitless-taiga-43279.herokuapp.com/",
+        "description": "This is an application to track your workouts. You can log multiple exercises in a single workout, and track the name, type, weight, sets, reps, and duration of exercise. If you are doing cardio, you can track distance traveled.",
+        "imgsrc": "https://user-images.githubusercontent.com/46208528/77829035-9994c000-70dc-11ea-989e-36f805fa6c9b.png"
+    },
+    {
+        "name": "Weather Dashboard",
+        "url": "https://github.com/lorddominic/WeatherDashboard",
+        "description": "This assignment requires us master the process of using ajax call to get different informations from a certain resource. The hard part of the assignment was taking care of the three ajax call. Getting data from a ajax call, then use the data as arguments to another ajax call. This assignment is surely challenging. It's a great practice of using ajax to connect to multiple resources.",
+        "imgsrc": "https://user-images.githubusercontent.com/46208528/75900539-4cce0a00-5dfa-11ea-8bb5-cb4f194074bb.png"
+    }
+]
